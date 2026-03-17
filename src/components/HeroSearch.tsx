@@ -15,7 +15,7 @@ export function HeroSearch({ activeTab, onTabChange }: HeroSearchProps) {
       <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 opacity-80" />
       
       <h1 className="text-xl md:text-2xl font-extrabold text-gray-900 mb-4 tracking-tight">
-        AI创造游戏梦想
+        分享你的AI实践
       </h1>
 
       <div className="max-w-xl mx-auto relative mb-4 group">
